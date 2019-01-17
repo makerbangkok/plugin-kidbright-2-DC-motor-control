@@ -1,0 +1,12 @@
+Blockly.Msg.BLINK_LEFT_TITLE = "เลี้ยวซ้าย";
+Blockly.Msg.BLINK_LEFT_TOOLTIP = "เลี้ยวซ้าย";
+Blockly.Msg.BLINK_LEFT_HELPURL = "";
+Blockly.Msg.BLINK_RIGHT_TITLE = "เลี้ยวขวา";
+Blockly.Msg.BLINK_RIGHT_TOOLTIP = "เลี้ยวขวา";
+Blockly.Msg.BLINK_RIGHT_HELPURL = "";
+Blockly.Msg.BLINK_UP_TITLE = "ไปข้างหน้า";
+Blockly.Msg.BLINK_UP_TOOLTIP = "ไปข้างหน้า";
+Blockly.Msg.BLINK_UP_HELPURL = "";
+Blockly.Msg.BLINK_DOWN_TITLE = "ถอยหลัง";
+Blockly.Msg.BLINK_DOWN_TOOLTIP = "ถอยหลัง";
+Blockly.Msg.BLINK_DOWN_HELPURL = "";
